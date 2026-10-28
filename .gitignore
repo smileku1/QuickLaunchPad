@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.exe
+*.zip
+*.log
+.venv/
+
+# 사용자 데이터 · 키 (절대 커밋하지 않는다)
+encryption.key
+*.json
