@@ -67,7 +67,7 @@ pyinstaller QuickLaunchPad.spec
 
 제작 배경, 처음 쓰는 순서, 만들면서 손봐야 했던 것들을 블로그에 정리했습니다.
 
-- **[QuickLaunchPad — 바탕화면 아이콘 더미를 단축키 하나로](https://quicklaunchpadoriginal.tistory.com/1)**
+- **[바탕화면 정리 프로그램 무료 — 아이콘 더미를 버튼 한 판으로](https://quicklaunchpadoriginal.tistory.com/14)**
 
 버튼에 걸어 두면 좋은 파이썬 스크립트도 글로 남겨 두었습니다. 전부 직접 실행해 결과를 확인한 코드입니다.
 
